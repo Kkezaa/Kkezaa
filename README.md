@@ -1,19 +1,54 @@
-<h1 align="center">Hi 👋, I'm Kkeza</h1>
-<h3 align="center">A passionate Full-Stack developer from Germany</h3>
+# Hi there, I'm Kkeza 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kkezaa" alt="kkezaa" /></a> </p>
+### 🚀 Full-Stack Software Developer from Germany
 
-- 🌱 I’m currently learning **Django**
+I'm a passionate full-stack developer who loves building efficient, clean, and scalable applications.  
+My main focus is Python-based backend development, but I also enjoy crafting simple and effective frontends.
 
-- 📫 How to reach me **kristijanknezevic389@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## 🧰 Tech Stack
+
+### **Languages & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### **Frontend**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kkezaa&show_icons=true&locale=en&layout=compact" alt="kkezaa" /></p>
+### **Data Management**
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kkezaa&show_icons=true&locale=en" alt="kkezaa" /></p>
+---
+
+## 🔧 What I Work On
+- Building dynamic and secure backend systems  
+- Creating lightweight and clean web applications  
+- Automating workflows and handling data with Pandas  
+- Exploring new tools & sharpening my full-stack skills  
+
+---
+
+## 📈 GitHub Stats
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Kkeza&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkeza&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Reach Me
+📧 Email: *your email here*  
+💼 Portfolio: *link here*  
+🌐 GitHub: [github.com/Kkeza](https://github.com/Kkeza)
+
+---
+
+Thanks for stopping by! 😊
