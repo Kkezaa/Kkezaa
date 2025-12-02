@@ -36,8 +36,8 @@ My main focus is Python-based backend development, but I also enjoy crafting sim
 
 ---
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kkeza&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kkeza&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kkezaa&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kkezaa&theme=dark)
 
 
 ---
