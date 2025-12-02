@@ -36,11 +36,8 @@ My main focus is Python-based backend development, but I also enjoy crafting sim
 
 ---
 
-## 📈 GitHub Stats
-<p>
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kkeza&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kkeza&layout=compact&theme=tokyonight" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kkeza&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kkeza&theme=dark)
 
 
 ---
